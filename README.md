@@ -9,6 +9,8 @@ Email: otavio.sr@inf.ufpel.edu.br
 Discord: Lekaso#5775
 
 ## Descrição
-Foram utilizadas as regras de Código Limpo do DOOM 3 neste código
+Não foram feitas alterações do código enviado em aula.
+
+Foram utilizadas as regras de Código Limpo do DOOM 3 neste código.
 
 ###### Link para o Vídeo: 
